@@ -95,8 +95,7 @@ main.exe
 
 ## 👨‍💻 Author
 
-**Md Showkotul Islam**
-GitHub: [@SaKin32](https://github.com/SaKin32)
+**Fahim Islam**
 
 ---
 
