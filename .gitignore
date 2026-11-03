@@ -1,0 +1,35 @@
+# Compiled Executables and Objects
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+
+# Build Output Directories
+bin/
+build/
+obj/
+dist/
+out/
+
+# Dynamic Runtime Data
+RoomBookings/
+
+# IDE and Editor Directories
+.vscode/
+.vs/
+.idea/
+*.suo
+*.user
+*.userosv
+*.sln.docstates
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.swp
